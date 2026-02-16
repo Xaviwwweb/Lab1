@@ -1,0 +1,264 @@
+{
+    "pagination": {
+        "limit": 5,
+        "offset": 0,
+        "count": 5,
+        "total": 324791
+    },
+    "data": [
+        {
+            "flight_date": "2026-02-16",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Mineralnye Vodyj",
+                "timezone": "Europe/Moscow",
+                "iata": "MRV",
+                "icao": "URMM",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-02-16T10:35:00+00:00",
+                "estimated": "2026-02-16T10:35:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Kaluga",
+                "timezone": "Europe/Moscow",
+                "iata": "KLF",
+                "icao": "UUBC",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-02-16T13:45:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Aerosucre",
+                "iata": "A4",
+                "icao": "KRE"
+            },
+            "flight": {
+                "number": "6003",
+                "iata": "A46003",
+                "icao": "KRE6003",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-02-16",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Nakashibetsu",
+                "timezone": "Asia/Tokyo",
+                "iata": "SHB",
+                "icao": "RJCN",
+                "terminal": null,
+                "gate": "1",
+                "delay": null,
+                "scheduled": "2026-02-16T16:30:00+00:00",
+                "estimated": "2026-02-16T16:30:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Okadama",
+                "timezone": "Asia/Tokyo",
+                "iata": "OKD",
+                "icao": "RJCO",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-02-16T17:25:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Japan Airlines",
+                "iata": "JL",
+                "icao": "JTL"
+            },
+            "flight": {
+                "number": "2738",
+                "iata": "JL2738",
+                "icao": "JTL2738",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        },
+        {
+            "flight_date": "2026-02-16",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Qingdao",
+                "timezone": "Asia/Shanghai",
+                "iata": "TAO",
+                "icao": "ZSQD",
+                "terminal": null,
+                "gate": "70",
+                "delay": null,
+                "scheduled": "2026-02-16T14:10:00+00:00",
+                "estimated": "2026-02-16T14:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Zhoushan",
+                "timezone": "Asia/Shanghai",
+                "iata": "HSN",
+                "icao": "ZSZS",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-02-16T15:45:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Sichuan Airlines",
+                "iata": "3U",
+                "icao": "CSC"
+            },
+            "flight": {
+                "number": "4659",
+                "iata": "3U4659",
+                "icao": "CSC4659",
+                "codeshared": {
+                    "airline_name": "qingdao airlines",
+                    "airline_iata": "qw",
+                    "airline_icao": "qda",
+                    "flight_number": "9841",
+                    "flight_iata": "qw9841",
+                    "flight_icao": "qda9841"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "7817CB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-02-16",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Qingdao",
+                "timezone": "Asia/Shanghai",
+                "iata": "TAO",
+                "icao": "ZSQD",
+                "terminal": null,
+                "gate": "70",
+                "delay": null,
+                "scheduled": "2026-02-16T14:10:00+00:00",
+                "estimated": "2026-02-16T14:10:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Zhoushan",
+                "timezone": "Asia/Shanghai",
+                "iata": "HSN",
+                "icao": "ZSZS",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-02-16T15:45:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "China Southern Airlines",
+                "iata": "CZ",
+                "icao": "CSN"
+            },
+            "flight": {
+                "number": "9487",
+                "iata": "CZ9487",
+                "icao": "CSN9487",
+                "codeshared": {
+                    "airline_name": "qingdao airlines",
+                    "airline_iata": "qw",
+                    "airline_icao": "qda",
+                    "flight_number": "9841",
+                    "flight_iata": "qw9841",
+                    "flight_icao": "qda9841"
+                }
+            },
+            "aircraft": {
+                "registration": null,
+                "iata": null,
+                "icao": null,
+                "icao24": "7817CB"
+            },
+            "live": null
+        },
+        {
+            "flight_date": "2026-02-16",
+            "flight_status": "scheduled",
+            "departure": {
+                "airport": "Sir Seewoosagur Ramgoolam International",
+                "timezone": "Indian/Mauritius",
+                "iata": "MRU",
+                "icao": "FIMP",
+                "terminal": null,
+                "gate": null,
+                "delay": null,
+                "scheduled": "2026-02-16T11:40:00+00:00",
+                "estimated": "2026-02-16T11:40:00+00:00",
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "arrival": {
+                "airport": "Gillot",
+                "timezone": "Indian/Reunion",
+                "iata": "RUN",
+                "icao": "FMEE",
+                "terminal": null,
+                "gate": null,
+                "baggage": null,
+                "scheduled": "2026-02-16T12:25:00+00:00",
+                "delay": null,
+                "estimated": null,
+                "actual": null,
+                "estimated_runway": null,
+                "actual_runway": null
+            },
+            "airline": {
+                "name": "Air Austral",
+                "iata": "UU",
+                "icao": "REU"
+            },
+            "flight": {
+                "number": "105",
+                "iata": "UU105",
+                "icao": "REU105",
+                "codeshared": null
+            },
+            "aircraft": null,
+            "live": null
+        }
+    ]
+}
