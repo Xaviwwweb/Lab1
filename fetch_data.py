@@ -2,7 +2,7 @@ import requests
 import json
 
 def fetch_flight_data():
-    # Define the API endpoint and your access key
+    # Define the API endpoint using the access key
     url = "http://api.aviationstack.com/v1/flights"
     params = {
         'access_key': 'c79af6b9b8a2d297e1d56d87be267605',
